@@ -212,7 +212,6 @@ header .navbar {
   text-align: center;
 }
 
-/* MENU */
 .menu-section {
   background: var(--dark-color);
   color: var(--white-color);
@@ -381,3 +380,4 @@ header .navbar {
     height: 250px;
   }
 }
+
